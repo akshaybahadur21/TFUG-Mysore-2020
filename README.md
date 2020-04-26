@@ -3,7 +3,7 @@
  
 My session at TensorFlow User Group - Mysore for humans 
  
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1NRzSy_923ceEDNkQkoJq6RGCH8dvU82uAYev0IId4Q4/edit?usp=sharing)
 
 ## [Meetup Link](https://www.meetup.com/TFUG-Mysuru/events/270234866/)
 <img src="https://github.com/akshaybahadur21/TFUG-Mysore-2020/blob/master/1.png">
